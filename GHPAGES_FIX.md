@@ -2,14 +2,14 @@
 
 ## 1️⃣ Ativar Actions no Repositório
 
-- Vá em: `https://github.com/gl-dias/Love/settings/actions`
+- Vá em: `https://github.com/gl-dias/camile/settings/actions`
 - Em **"Actions permissions"**, selecione:
   - ✅ `Allow all actions and reusable workflows`
 - Clique em **Save**
 
 ## 2️⃣ Configurar GitHub Pages
 
-- Vá em: `https://github.com/gl-dias/Love/settings/pages`
+- Vá em: `https://github.com/gl-dias/camile/settings/pages`
 - Em **Source**:
   - Branch: `gh-pages`
   - Folder: `/ (root)`
@@ -29,11 +29,11 @@ Isso acionará um novo workflow com as permissões corretas!
 
 ## 📊 Monitorar Deploy
 
-- Vá em: `https://github.com/gl-dias/Love/actions`
+- Vá em: `https://github.com/gl-dias/camile/actions`
 - Veja o status do workflow
 - Quando terminar (✅), seu site estará em:
   ```
-  https://gl-dias.github.io/Love/
+  https://gl-dias.github.io/camile/
   ```
 
 ## 🆘 Se ainda tiver erro
